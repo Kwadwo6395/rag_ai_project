@@ -10,8 +10,8 @@ RAG chat assistant that answers questions over Ghana's 2020/2024 presidential el
 
 ## Live demo
 
-- **Deployed URL:** <DEPLOYED_URL>
-- **2-minute video walkthrough:** (link after recording)
+- **Deployed URL:** <https://kwadwo6395-rag-ai-project-app-izbewx.streamlit.app>
+- **2-minute video walkthrough:** 
 
 ## Local setup
 
@@ -114,16 +114,6 @@ ai_<INDEX_NUMBER>/
 | Manual experiment logs | 4 | `docs/experiment_logs.md` |
 | Documentation | 4 | this README + `docs/design_decisions.md` |
 
-## Exam housekeeping (student checklist)
-
-- [ ] Replace `<STUDENT_NAME>` with your name across every file (use grep).
-- [ ] Replace `<INDEX_NUMBER>` with your index number across every file.
-- [ ] Replace `<DEPLOYED_URL>` with the Streamlit Cloud URL.
-- [ ] Create GitHub repo named `ai_<INDEX_NUMBER>` (exact).
-- [ ] Add `GodwinDansoAcity` as a GitHub collaborator.
-- [ ] Email `godwin.danso@acity.edu.gh` with GitHub + deployed URL. Subject:
-      `CS4241-Introduction to Artificial Intelligence-2026:[<INDEX> <NAME>]`
-- [ ] Record 2-minute walkthrough per `docs/video_script.md` and attach/link.
 
 ## Design references
 
