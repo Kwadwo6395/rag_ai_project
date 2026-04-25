@@ -19,9 +19,9 @@ RAG chat assistant that answers questions over Ghana's 2020/2024 presidential el
 > - Mac or Linux → [`docs/setup.md`](docs/setup.md)
 > - Windows → [`docs/setup-windows.md`](docs/setup-windows.md)
 >
-> Those walk you through everything below *and* GitHub upload, Streamlit Cloud deployment, recording the video, and emailing the lecturer.
+> 
 
-The quick version (assumes you've done Python/Git before):
+
 
 ```bash
 # 1. Python 3.11
@@ -38,7 +38,7 @@ curl -L -o data/2025-Budget-Statement-and-Economic-Policy_v4.pdf \
 
 # 3. Gemini key
 cp .env.example .env
-# edit .env and set GEMINI_API_KEY=...
+
 
 # 4. Build the index (~30s)
 python scripts/build_index.py
