@@ -11,7 +11,7 @@ RAG chat assistant that answers questions over Ghana's 2020/2024 presidential el
 ## Live demo
 
 - **Deployed URL:** <https://kwadwo6395-rag-ai-project-app-izbewx.streamlit.app>
-- **2-minute video walkthrough:** 
+- **2-minute video walkthrough:** https://drive.google.com/file/d/1e-tGLQM_qa0mYYBEAsZl-C8y_lc1R4wy/view?usp=share_link
 
 ## Local setup
 
